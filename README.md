@@ -1,3 +1,3 @@
 ## Estudos em JavaScript
 
-Este repositório servirá como um livro, eu irei guardar todos os arquivores relacionados à minha aprendizagem em JavaScript para futuras dúvidas e recordações
+Este repositório será usado para salvar anotações e códigos feitos em JavaScript para recordação ou usar em dúvidas futuras.
